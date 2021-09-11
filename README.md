@@ -10,7 +10,9 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 
 ### Azure Firewall
 [Azure Firewall hub-and-spoke demo](https://github.com/mddazure/azurefirewall-hub-spoke-demo)
+
 [Azure Firewall Premium demo](https://github.com/mddazure/azurefirewall-premium-preview)
+
 [Spoke-hub-hub-spoke via Azure Firewall](https://github.com/mddazure/spoke-hub-hub-spoke-demo)
 ### IPv6
 [Dual stack IPv4/IPv6 VNET topology](https://github.com/mddazure/ipv6-in-vnet-bicep)
