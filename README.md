@@ -1,4 +1,4 @@
-#Welcome 
+# Welcome
 
 ... to my Github landing zone. 
 
@@ -6,7 +6,7 @@ Working with Azure cloud network technologies at Microsoft, I create labs and te
 
 Feel free to use and repurpose as you see fit, comments and suggestions are welcome.
 
-#Contents
+## Contents
 
 ### Azure Firewall
 [Azure Firewall hub-and-spoke demo](https://github.com/mddazure/azurefirewall-hub-spoke-demo)
