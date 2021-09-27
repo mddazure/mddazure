@@ -29,9 +29,7 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 
 [VWAN deployment in Terraform](https://github.com/mddazure/vwan-vpn-terraform/blob/master/vwanvpn.tf)
 
-[VWAN deployment in Bicep](https://github.com/mddazure/bicep-vwan)
-
-(Original content by Alexandre Weiss)
+[VWAN deployment in Bicep](https://github.com/mddazure/bicep-vwan) (Original content by Alexandre Weiss)
 
 
 
