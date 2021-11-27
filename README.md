@@ -22,14 +22,17 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 [Routing through Network Virtual Appliances with Azure Private Link](https://github.com/mddazure/azure-privatelink-routing)
 ### Route Server
 [Azure Route Server with Cisco CSR1000v NVA](https://github.com/mddazure/azure-route-server-lab)
-### Site-to-site VPN
-[S2S VPN network with BGP, cross-subscription and cross-tenant](https://github.com/mddazure/s2s-vpn)
 ### Virtual WAN
 [Routing in Azure Virtual WAN MicroHack](https://github.com/mddazure/azure-vwan-microhack)
 
 [VWAN deployment in Terraform](https://github.com/mddazure/vwan-vpn-terraform)
 
 [VWAN deployment in Bicep](https://github.com/mddazure/bicep-vwan) (Original content by Alexandre Weiss)
+### Site-to-site VPN
+[S2S VPN network with BGP, cross-subscription and cross-tenant](https://github.com/mddazure/s2s-vpn)
+### Point-to-site VPN
+[Point-to-site VPN Internet Gateway](https://github.com/mddazure/p2s-vpn-internet-gateway)
+
 
 
 
