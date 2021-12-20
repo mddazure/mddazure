@@ -32,6 +32,8 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 [S2S VPN network with BGP, cross-subscription and cross-tenant](https://github.com/mddazure/s2s-vpn)
 ### Point-to-site VPN
 [Point-to-site VPN Internet Gateway](https://github.com/mddazure/p2s-vpn-internet-gateway)
+### Networking for Data & AI services 
+[Azure Data Factory, Purview, Synapse](https://github.com/mddazure/adf-purview-synapse-lab)
 
 
 
