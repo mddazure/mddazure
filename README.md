@@ -18,7 +18,6 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 
 ### Data & AI services - networking
 [Networking for Azure Data & Analytics Services - Part 1](https://github.com/mddazure/azure-data-services-networking)
-(in progress)
 
 [Network experimentation lab for Azure Data Factory, Purview, Synapse](https://github.com/mddazure/adf-purview-synapse-lab)
 
