@@ -21,6 +21,8 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 
 [Network experimentation lab for Azure Data Factory, Purview, Synapse](https://github.com/mddazure/adf-purview-synapse-lab)
 
+[Network experimentation lab for Azure Databricks](https://github.com/mddazure/databricks-lab)
+
 ### IPv6
 [Dual stack IPv4/IPv6 VNET topology](https://github.com/mddazure/ipv6-in-vnet-bicep)
 
