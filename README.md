@@ -17,7 +17,9 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 [Spoke-hub-hub-spoke via Azure Firewall](https://github.com/mddazure/spoke-hub-hub-spoke-demo)
 
 ### Data & AI services - networking
-[Networking for Azure Data & Analytics Services - Part 1](https://github.com/mddazure/azure-data-services-networking)
+[Networking for Azure Data & Analytics Services - Part 1](https://github.com/mddazure/azure-data-services-networking-part-1)
+
+[Networking for Azure Data & Analytics Services - Part 2](https://github.com/mddazure/azure-data-services-networking-part-2)
 
 [Network experimentation lab for Azure Data Factory, Purview, Synapse](https://github.com/mddazure/adf-purview-synapse-lab)
 
