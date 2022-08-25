@@ -40,7 +40,7 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 ### Virtual WAN
 [Routing in Azure Virtual WAN MicroHack](https://github.com/mddazure/azure-vwan-microhack)
 
-[VWAN deployment in Terraform](https://github.com/mddazure/vwan-vpn-terraform)
+[VWAN with Routing Intent deployed with Terraform](https://github.com/mddazure/vwan-routing-intent-vpn-terraform)
 
 [VWAN deployment in Bicep](https://github.com/mddazure/bicep-vwan) (Original content by Alexandre Weiss)
 
