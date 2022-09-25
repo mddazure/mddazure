@@ -34,6 +34,9 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 ### Private Link
 [Routing through Network Virtual Appliances with Azure Private Link](https://github.com/mddazure/azure-privatelink-routing)
 
+### Private DNS Resolver
+[Private DNS Resolver with Forwarding Rules](https://github.com/mddazure/dns-resolver-lab/)
+
 ### Route Server
 [Azure Route Server with Cisco CSR1000v NVA](https://github.com/mddazure/azure-route-server-lab)
 
