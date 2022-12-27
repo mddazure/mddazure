@@ -8,6 +8,10 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 
 ## Contents
 
+### Aviatrix
+
+[Aviatrix Lab](https://github.com/mddazure/aviatrix-lab)
+
 ### Azure Firewall
 [Azure Firewall hub-and-spoke demo](https://github.com/mddazure/azurefirewall-hub-spoke-demo)
 
