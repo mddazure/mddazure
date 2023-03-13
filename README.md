@@ -49,6 +49,8 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 
 [VWAN with Routing Intent deployed with Terraform](https://github.com/mddazure/vwan-routing-intent-vpn-terraform)
 
+[Proposal for a Network Segmentation User Interface](https://github.com/mddazure/vwan-segmentation-ui)
+
 [VWAN deployment in Bicep](https://github.com/mddazure/bicep-vwan) (Original content by Alexandre Weiss)
 
 ### VPN: Site-to-site
