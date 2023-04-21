@@ -33,6 +33,7 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 [Dual stack IPv4/IPv6 VNET topology](https://github.com/mddazure/ipv6-in-vnet-bicep)
 
 ### Network Manager
+[AVNM Demo Lab](https://github.com/mddazure/avnm-demo)
 [Testbed for Azure Network Manager](https://github.com/mddazure/multiple-vnets-with-vms)
 
 ### Private Link
