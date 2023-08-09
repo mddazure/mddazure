@@ -8,6 +8,10 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 
 ## Contents
 
+### AVNM
+
+[AVNM Demo](https://github.com/mddazure/avnm-demo)
+
 ### Aviatrix
 
 [Aviatrix Lab](https://github.com/mddazure/aviatrix-lab)
@@ -49,11 +53,11 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 ### Virtual WAN
 [Routing in Azure Virtual WAN MicroHack](https://github.com/mddazure/azure-vwan-microhack)
 
+[Security in Azure Virtual WAN MicroHack](https://github.com/mddazure/azure-vwan-security-microhack)
+
 [VWAN with Routing Intent deployed with Terraform](https://github.com/mddazure/vwan-routing-intent-vpn-terraform)
 
 [Proposal for a Network Segmentation User Interface](https://github.com/mddazure/vwan-segmentation-ui)
-
-[VWAN deployment in Bicep](https://github.com/mddazure/bicep-vwan) (Original content by Alexandre Weiss)
 
 ### VPN: Site-to-site
 [S2S VPN network with BGP, cross-subscription and cross-tenant](https://github.com/mddazure/s2s-vpn)
