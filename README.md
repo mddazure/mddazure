@@ -65,6 +65,25 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 ### VPN: Point-to-site
 [Point-to-site VPN Internet Gateway](https://github.com/mddazure/p2s-vpn-internet-gateway)
 
+### Interesting stuff
+
+Please have a look at the work of some of my co-workers who publish about Azure Networking:
+
+[Adam Stuart](https://github.com/adstuart)
+
+[Bruce Cosden](https://github.com/bcosden)
+
+[Cynthia Treger](https://github.com/cynthiatreger)
+
+[Daniele Gauilli](https://github.com/Danieleg82)
+
+[Daniel Mauser](https://github.com/dmauser)
+
+[Jose Moreno](https://github.com/erjosito); 
+https://blog.cloudtrooper.net/
+
+[Kayode Salawu](https://github.com/kaysalawu)
+
 #### Contributing
 This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
 When you submit a pull request, a CLA bot will automatically determine whether you need to provide a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions provided by the bot. You will only need to do this once across all repos using our CLA.
