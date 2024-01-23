@@ -36,6 +36,9 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 ### IPv6
 [Dual stack IPv4/IPv6 VNET topology](https://github.com/mddazure/ipv6-in-vnet-bicep)
 
+### Hybrid Connectivity
+[Hybrid Connectivity at high bandwidth and low latency](https://github.com/mddazure/az-latency-test)
+
 ### Network Manager
 [AVNM Demo Lab](https://github.com/mddazure/avnm-demo)
 
