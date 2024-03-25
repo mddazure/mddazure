@@ -62,6 +62,9 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 
 [Proposal for a Network Segmentation User Interface](https://github.com/mddazure/vwan-segmentation-ui)
 
+### VNET Flow Logs
+[PowerBI Dashboard template for VNET Flow Logs](https://github.com/mddazure/vnet-flow-logs-powerbi)
+
 ### VPN: Site-to-site
 [S2S VPN network with BGP, cross-subscription and cross-tenant](https://github.com/mddazure/s2s-vpn)
 
