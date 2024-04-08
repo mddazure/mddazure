@@ -54,6 +54,8 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 [Azure Route Server with Cisco CSR1000v NVA](https://github.com/mddazure/azure-route-server-lab)
 
 ### Virtual WAN
+[Bastion and Virtual WAN Secured Hub](https://github.com/mddazure/bastion-and-secure-hub)
+
 [Routing in Azure Virtual WAN MicroHack](https://github.com/mddazure/azure-vwan-microhack)
 
 [Security in Azure Virtual WAN MicroHack](https://github.com/mddazure/azure-vwan-security-microhack)
