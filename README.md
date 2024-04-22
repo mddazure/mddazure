@@ -36,7 +36,7 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 ### IPv6
 [Dual stack IPv4/IPv6 VNET topology](https://github.com/mddazure/ipv6-in-vnet-bicep)
 
-[IPV6 over VPN with Network Virtual Appliances](https://github.com/mddazure/IPV6-over-VPN-with-NVA)
+[IPV6 over VPN with Network Virtual Appliances](https://github.com/mddazure/ipv6-over-vpn-nva)
 
 ### Hybrid Connectivity
 [Hybrid Connectivity at high bandwidth and low latency](https://github.com/mddazure/az-latency-test)
