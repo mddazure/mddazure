@@ -24,6 +24,9 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 
 [Spoke-hub-hub-spoke via Azure Firewall](https://github.com/mddazure/spoke-hub-hub-spoke-demo)
 
+### Bastion
+[Bastion and Virtual WAN Secured Hub](https://github.com/mddazure/bastion-and-secure-hub)
+
 ### Data & AI services - networking
 [Networking for Azure Data & Analytics Services - Part 1](https://github.com/mddazure/azure-data-services-networking-part-1)
 
