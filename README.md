@@ -24,6 +24,9 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 
 [Spoke-hub-hub-spoke via Azure Firewall](https://github.com/mddazure/spoke-hub-hub-spoke-demo)
 
+### Azure Verified Modules
+[Azure Verified Modules - network deployment](https://github.com/mddazure/azure_verified_module_lab)
+
 ### Bastion
 [Bastion and Virtual WAN Secured Hub](https://github.com/mddazure/bastion-and-secure-hub)
 
