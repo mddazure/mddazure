@@ -39,6 +39,9 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 
 [Network experimentation lab for Azure Databricks](https://github.com/mddazure/databricks-lab)
 
+### Entra Global Secure Access
+[Global Secure Access lab](https://github.com/mddazure/entra-gsa-lab)
+
 ### IPv6
 [Dual stack IPv4/IPv6 VNET topology](https://github.com/mddazure/ipv6-in-vnet-bicep)
 
