@@ -85,8 +85,7 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 [S2S VPN network with BGP, cross-subscription and cross-tenant](https://github.com/mddazure/s2s-vpn)
 
 ### VPN: Point-to-site
-[Point-to-site VPN Internet Gateway](https://github.com/mddazure/
-p2s-vpn-internet-gateway)
+[Point-to-site VPN Internet Gateway](https://github.com/mddazure/p2s-vpn-internet-gateway)
 
 ### Interesting stuff
 
