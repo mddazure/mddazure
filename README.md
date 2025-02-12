@@ -84,6 +84,8 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 ### VPN: Site-to-site
 [S2S VPN network with BGP, cross-subscription and cross-tenant](https://github.com/mddazure/s2s-vpn)
 
+[VPN with Source NAT and Traffic Selector](https://github.com/mddazure/vpn-traffic-selector-snat/)
+
 ### VPN: Point-to-site
 [Point-to-site VPN Internet Gateway](https://github.com/mddazure/p2s-vpn-internet-gateway)
 
