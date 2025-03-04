@@ -62,7 +62,7 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 [Private DNS Resolver with Forwarding Rules](https://github.com/mddazure/dns-resolver-lab/)
 
 ### Route Server
-[Azure Route Server with Cisco CSR1000v NVA](https://github.com/mddazure/azure-route-server-lab)
+[Azure Route Server with Cisco Catalyst8000v NVA](https://github.com/mddazure/azure-route-server-lab)
 
 ### Virtual WAN
 [Bastion and Virtual WAN Secured Hub](https://github.com/mddazure/bastion-and-secure-hub)
