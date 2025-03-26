@@ -64,6 +64,9 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 ### Route Server
 [Azure Route Server with Cisco Catalyst8000v NVA](https://github.com/mddazure/azure-route-server-lab)
 
+### Subnet Peering
+[Subnet Peering](https://github.com/mddazure/subnet-peering)
+
 ### Virtual WAN
 [Bastion and Virtual WAN Secured Hub](https://github.com/mddazure/bastion-and-secure-hub)
 
