@@ -42,6 +42,12 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 ### Entra Global Secure Access
 [Global Secure Access lab](https://github.com/mddazure/entra-gsa-lab)
 
+### Fun
+
+[Tell Me A Story](https://github.com/mddazure/tell-me-a-story)
+
+Generate engaging stories in foreign languages and test your comprehension!
+
 ### IPv6
 [Dual stack IPv4/IPv6 VNET topology](https://github.com/mddazure/ipv6-in-vnet-bicep)
 
