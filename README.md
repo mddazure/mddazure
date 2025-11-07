@@ -48,6 +48,9 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 
 [Tell Me A Story](https://github.com/mddazure/tell-me-a-story)
 
+Multi-language version: https://stories.azurewebsites.net/
+Russian language only: https://ckazy-mne-raskaz.azurewebsites.net/
+
 Generate engaging stories in foreign languages and test your comprehension!
 
 ### IPv6
@@ -71,6 +74,8 @@ Generate engaging stories in foreign languages and test your comprehension!
 
 ### Route Server
 [Azure Route Server with Cisco Catalyst8000v NVA](https://github.com/mddazure/azure-route-server-lab)
+
+[Cascaded Hub & Spoke Foundation](https://github.com/mddazure/cascaded-hub)
 
 ### Subnet Peering
 [Subnet Peering](https://github.com/mddazure/subnet-peering)
