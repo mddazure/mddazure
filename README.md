@@ -50,9 +50,9 @@ Generate engaging stories in foreign languages and test your comprehension!
 
 [Tell Me A Story](https://github.com/mddazure/tell-me-a-story)
 
-Multi-language version: https://stories.azurewebsites.net/
+Multiple languages: https://stories.azurewebsites.net/
 
-Russian only version: https://ckazy-mne-raskaz.azurewebsites.net/
+Russian only: https://ckazy-mne-raskaz.azurewebsites.net/
 
 ### IPv6
 [Dual stack IPv4/IPv6 VNET topology](https://github.com/mddazure/ipv6-in-vnet-bicep)
