@@ -48,10 +48,7 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 
 [Tell Me A Story](https://github.com/mddazure/tell-me-a-story)
 
-Multi-language version: https://stories.azurewebsites.net/
-Russian language only: https://ckazy-mne-raskaz.azurewebsites.net/
-
-Generate engaging stories in foreign languages and test your comprehension!
+Generate engaging stories in foreign languages and test your comprehension! 
 
 ### IPv6
 [Dual stack IPv4/IPv6 VNET topology](https://github.com/mddazure/ipv6-in-vnet-bicep)
