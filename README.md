@@ -59,6 +59,8 @@ Russian only: https://ckazy-mne-raskaz.azurewebsites.net/
 
 [IPV6 over VPN with Network Virtual Appliances](https://github.com/mddazure/ipv6-over-vpn-nva)
 
+[Delivering web applications over IPv6](https://github.com/mddazure/ipv6-web-app)
+
 ### Hybrid Connectivity
 [Hybrid Connectivity at high bandwidth and low latency](https://github.com/mddazure/az-latency-test)
 
@@ -72,6 +74,11 @@ Russian only: https://ckazy-mne-raskaz.azurewebsites.net/
 
 ### Private DNS Resolver
 [Private DNS Resolver with Forwarding Rules](https://github.com/mddazure/dns-resolver-lab/)
+
+### Azure Region and Client IP Viewer
+A minimal single-page web application that displays both the Azure region where it's deployed and the client's IP address (IPv4 and IPv6). 
+
+[Azure Region and Client IP Viewer](https://github.com/mddazure/azure-region-viewer)
 
 ### Route Server
 [Azure Route Server with Cisco Catalyst8000v NVA](https://github.com/mddazure/azure-route-server-lab)
