@@ -106,9 +106,11 @@ A minimal single-page web application that displays both the Azure region where 
 [Lab demonstrating Virtual Network TAP](https://github.com/mddazure/virtual-network-tap-lab)
 
 ### VPN: Site-to-site
-[S2S VPN network with BGP, cross-subscription and cross-tenant](https://github.com/mddazure/s2s-vpn)
+[Highly available Site-to-Site VPN with BGP over APIPA addresses](https://github.com/mddazure/vpn-bgp-apipa)
 
 [VPN with Source NAT and Traffic Selector](https://github.com/mddazure/vpn-traffic-selector-snat/)
+
+[S2S VPN network with BGP, cross-subscription and cross-tenant](https://github.com/mddazure/s2s-vpn)
 
 ### VPN: Point-to-site
 [Point-to-site VPN Internet Gateway](https://github.com/mddazure/p2s-vpn-internet-gateway)
