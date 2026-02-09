@@ -108,6 +108,8 @@ A minimal single-page web application that displays both the Azure region where 
 ### VPN: Site-to-site
 [Highly available Site-to-Site VPN with BGP over APIPA addresses](https://github.com/mddazure/vpn-bgp-apipa)
 
+[Highly available Site-to-Site VPN to Amazon Web Services, with BGP over APIPA addresses](https://github.com/mddazure/vpn-bgp-apipa-aws)
+
 [VPN with Source NAT and Traffic Selector](https://github.com/mddazure/vpn-traffic-selector-snat/)
 
 [S2S VPN network with BGP, cross-subscription and cross-tenant](https://github.com/mddazure/s2s-vpn)
