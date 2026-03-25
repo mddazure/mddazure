@@ -44,6 +44,9 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 ### Entra Global Secure Access
 [Global Secure Access lab](https://github.com/mddazure/entra-gsa-lab)
 
+### ExpressRoute
+[Connecting an ExpressRoute circuit to Megaport MVE Cisco 8000v](https://github.com/mddazure/expressroute-megaport-mve)
+
 ### Fun with AI
 
 Generate engaging stories in foreign languages and test your comprehension! 
