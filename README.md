@@ -88,6 +88,8 @@ A minimal single-page web application that displays both the Azure region where 
 
 [Cascaded Hub & Spoke Foundation](https://github.com/mddazure/cascaded-hub)
 
+[Cascaded Hub & Spoke without Azure Route Server](https://github.com/mddazure/cascaded-hub-no-ars)
+
 ### Subnet Peering
 [Subnet Peering](https://github.com/mddazure/subnet-peering)
 
