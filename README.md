@@ -104,6 +104,8 @@ A minimal single-page web application that displays both the Azure region where 
 
 [Proposal for a Network Segmentation User Interface](https://github.com/mddazure/vwan-segmentation-ui)
 
+[VWAN Multi-Hub ExpressRoute Transit PoC](https://github.com/mddazure/vwan-multi-hub-ri-er)
+
 ### VNET Flow Logs
 [PowerBI Dashboard template for VNET Flow Logs](https://github.com/mddazure/vnet-flow-logs-powerbi)
 
