@@ -41,8 +41,10 @@ Feel free to use and repurpose as you see fit, comments and suggestions are welc
 
 [Network experimentation lab for Azure Databricks](https://github.com/mddazure/databricks-lab)
 
-### Entra Global Secure Access
+### Entra 
 [Global Secure Access lab](https://github.com/mddazure/entra-gsa-lab)
+
+[Entra authentication and app roles demo](https://github.com/mddazure/entra-auth-roles-demo)
 
 ### ExpressRoute
 [Connecting an ExpressRoute circuit to Megaport MVE Cisco 8000v](https://github.com/mddazure/expressroute-megaport-mve)
